@@ -1,8 +1,12 @@
 # 3D_Platformer_Game_Revision_13
 
-## This is the 13th patch of *3D Platformer Game*
+# TODO:
+1. Export game into executable
+2. Upload to Git
 
-## Currently in BETA phase
+## This is the 13th patch of *3D Platformer Game*.
+
+## Currently in BETA phase.
 
 ## Welcome to an indie fan game that I am making! It is currently a work in progress. It is inspired by Super Mario Galaxy / Super Mario 3D World, Grand Theft Auto / Spiderman PS4, Party Panic, and many other games. It is meant to be a jack of all trades game that people can play with their friends locally.
 
